@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Market</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Market</string>
+    <string name="nav_header_subtitle">Market Satış Programı</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_speet_sale">Hızlı Satış</string>
+    <string name="menu_product_add">Ürün Ekle Güncelle</string>
+    <string name="menu_selling">Satışlar</string>
+    <string name="menu_stock_contition">Stok Durumu</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

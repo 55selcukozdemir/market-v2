@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@id/nav_add_actual">
+
+    <fragment
+        android:id="@+id/nav_salle_main"
+        android:name="com.example.market.ui.MainSaleFragment"
+        android:label="@string/menu_speet_sale"
+        tools:layout="@layout/fragment_nav_main_sale" />
+    <fragment
+        android:id="@+id/nav_add_actual"
+        android:name="com.example.market.ui.ProductAddActualFragment"
+        android:label="@string/menu_product_add"
+        tools:layout="@layout/fragment_nav_product_add_actual" />
+    <fragment
+        android:id="@+id/nav_selling"
+        android:name="com.example.market.ui.SellingFragment"
+        android:label="@string/menu_selling"
+        tools:layout="@layout/fragment_nav_selling" />
+    <fragment
+        android:id="@+id/nav_contition"
+        android:name="com.example.market.ui.ConditionStockFragment"
+        android:label="@string/menu_stock_contition"
+        tools:layout="@layout/fragment_nav_condition_stock" />
+</navigation>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="category_sql">
+        <item>Sigara</item>
+        <item>Çikolata</item>
+        <item>İçecekler</item>
+        <item>Temizlik</item>
+        <item>Mutfak</item>
+    </string-array>
+</resources>
